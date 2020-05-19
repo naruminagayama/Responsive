@@ -59,7 +59,7 @@ main {
   .step-box {
     width: 90%;
     float: none;
-    margin: 0 auto 30px;
+    margin: 0 auto 20px;
   }
   .step-box:last-child {
     margin: 0 auto 0;
